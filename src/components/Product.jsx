@@ -16,7 +16,7 @@ const Product = ({val,mover,count}) => {
                 val.live && <Button></Button>
                 }
                 {
-                    val.case && <Button title='Case Study'></Button>
+                    val.case && <Button title='Set Your Measurement Appointment'></Button>
                 }
                </div>
             </div>

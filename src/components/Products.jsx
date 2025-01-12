@@ -10,25 +10,25 @@ import three from '../assets/4.webm'
 const Products = () => {
     var products = [
         {
-            title:"Arqitel",
+            title:"Formals",
             description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi architecto labore quo doloribus adipisci accusamus velit quia ea tempore rerum.",
             live:true,
             case:false,
         },
         {
-            title:"TTR",
+            title:"Wool",
             description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi architecto labore quo doloribus adipisci accusamus velit quia ea tempore rerum.",
             live:true,
             case:false,
         },
         {
-            title:"YIR 2022",
+            title:"Traditionals",
             description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi architecto labore quo doloribus adipisci accusamus velit quia ea tempore rerum.",
             live:true,
             case:true,
         },
         {
-            title:"Yahoo!",
+            title:"Designer",
             description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi architecto labore quo doloribus adipisci accusamus velit quia ea tempore rerum.",
             live:true,
             case:true,

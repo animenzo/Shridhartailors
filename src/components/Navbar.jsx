@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className='max-w-screen-xl mx-auto border-b-[1px] border-zinc-800 justify-between py-2 flex items-center'>
       <div className=' flex items-center'>
-      <img className='w-[4vw]' src="https://files.oaiusercontent.com/file-RAHVjYQBDhnsZs82mfjLgM?se=2025-01-12T10%3A57%3A29Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De7177ba1-099b-46f9-8d0d-8db3f3cb8db7.webp&sig=T%2BcBSnFpNSBROx5Y02VKnI0UDc2F9no0lUbiJ9juFTU%3D" alt="" />
+      <img className='w-[4vw]' src="https://i.ibb.co/x1K4ryz/DALL-E-2025-01-12-16-27-20-A-sophisticated-logo-design-for-Shridhar-Tailors-featuring-elegant-serif.png" alt="" />
       <div className='links flex ml-20 gap-14'>
         {["Home", "Work","Culture","","News"].map((elem,index)=>(
             elem.length === 0 ? (<span key={index} className='w-[2px] h-7 bg-zinc-700'></span>) : (

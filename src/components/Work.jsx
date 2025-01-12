@@ -86,7 +86,7 @@ scrollYProgress.on("change",(data)=>{
   return (
     <div className='w-full  '>
       <div className='relative max-w-screen-xl mt-10 mx-auto text-center'>
-        <h1 className='text-[18vw] leading-none font-medium tracking-tight select-none'>Shridhar Atelior</h1>
+        <h1 className='text-[16vw] leading-none font-medium tracking-tight select-none'>Shreedhar Atelior</h1>
       <div className='w-full absolute top-0  h-full '>
         {
             images.map((elem,index)=>elem.isActive && ( <img className='absolute translate-x-[30%] translate-y-[10%] w-60 rounded-lg' key={index} src={elem.url} alt="my work" style={{top: elem.top, left: elem.left}} /> ))
